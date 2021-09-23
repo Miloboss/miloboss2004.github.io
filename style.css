@@ -1,0 +1,121 @@
+.container {
+    width: 900px;
+    background-color: rgb(187, 3, 89)
+}
+.menuContainer {
+    display: flex;
+    height: 180px;
+    width: 1000px;
+    margin-left: 200px;
+    background-color: rgb(187, 3, 89)
+}
+
+.logo {
+    display: flex;
+    width: 200px;
+    height: 90px;
+}
+.text1 {
+    display: flex;
+    width: 300px;
+    margin-left: 500px;
+    font-style: oblique;
+}
+.txtContainer {
+    background-color: rgb(187, 3, 89)
+}
+.buttonContainer {
+    display: flex;
+    width: 500px;
+    margin-left: 350px;
+    justify-content: space-between;
+    flex-direction: ltr;
+    background-color: rgb(187, 3, 89)
+}
+.button1 {
+    display: flex;
+    border-radius: 50px;
+}
+.button2 {
+    display: flex;
+    border-radius: 50px;
+}
+.button3 {
+    display: flex;
+    border-radius: 50px;
+}
+.button4 {
+    display: flex;
+    border-radius: 50px;
+}
+.txt {
+    display: flex;
+    justify-content: center;
+}
+.txt1 {
+    display: flex;
+    justify-content: center;
+}
+.txt2 {
+    display: flex;
+    justify-content: center;
+}
+.txt1Container {
+    display: block;
+    width: 1300px;
+    height: 300px;
+    background-color: rgb(187, 3, 89)
+}
+.allContainer {
+    width: 1300px;
+    background-color: rgb(187, 3, 89)
+}
+.but1 {
+    display: flex;
+    justify-content: center;
+    border: black;
+}
+.bot {
+    border-radius: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(187, 3, 89);
+}
+.imageContainer {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    margin: 50px;
+    width: 1180px;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.img1Container {
+    width: 333px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.img1 {
+    width: 300px;
+    height: 200px;
+}
+.img2Container {
+    width: 333px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.img2 {
+    width: 300px;
+    height: 200px;
+}
+.img3Container {
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 333px;
+
+}
+.img3 {
+    width: 300px;
+    height: 200px;
+}
